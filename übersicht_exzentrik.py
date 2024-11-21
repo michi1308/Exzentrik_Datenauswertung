@@ -65,3 +65,4 @@ status_text.pack(fill="x", expand=True)
 
 # GUI starten
 root.mainloop()
+
